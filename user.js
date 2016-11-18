@@ -8,4 +8,5 @@ user_pref("network.http.max-connections-per-server", "16");
 user_pref("network.http.max-persistent-connections-per-proxy", "16");
 user_pref("network.http.max-persistent-connections-per-server", "8");
 user_pref("network.http.pipelining.aggressive", true);
+user_pref("browser.tabs.remote.autostart", true);
 user_pref("browser.tabs.remote.force-enable", true);
